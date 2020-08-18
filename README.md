@@ -1,2 +1,2 @@
-# Simple-ANN-Model-for-Classfication
+# ANN-Model-for-Classfication
 Bank Customer's Churn Classification
